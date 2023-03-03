@@ -28,6 +28,9 @@ Socials:
 <a href="https://twitter.com/me_tushari" target="blank"><img align="center"
           src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
           alt="tushar" height="30"/></a>
+<a href="https://linktr.ee/tusharchandra" target="blank"><img align="center"
+          src="https://img.shields.io/badge/linktree-%231DA1F2.svg?style=for-the-badge&logo=linktree&logoColor=gree"
+          alt="tushar" height="30"/></a>
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-tusharchandra&show_icons=true&theme=vue-dark)
 
