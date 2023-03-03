@@ -1,5 +1,5 @@
 
-  # Hi there, I'm  👋 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png) 
+![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png) 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-me-tusharchandra)
