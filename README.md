@@ -13,9 +13,9 @@
 ----
 Socials:
 
-<a href="www.linkedin.com/in/tusharchandra21" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="tushar" height="30"/></a>
+<a href="https://www.linkedin.com/in/tushar-chandra-7547901ab//" target="blank"><img align="center"
+          src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="tushar" height="30"/></a>
 <a href="mailto:cout.destiny@gmail.com" target="blank"><img align="center"
           src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
           alt="tushar" height="30"/></a>
