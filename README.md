@@ -32,9 +32,9 @@ Socials:
           src="https://img.shields.io/badge/linktree-%231DA1F2.svg?style=for-the-badge&logo=linktree&logoColor=gree"
           alt="tushar" height="30"/></a>
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-tusharchandra&show_icons=true&theme=vue-dark)
+![Tushar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=me-tusharchandra&show_icons=true&theme=vue-dark)
 
-![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=me-tusharchandra&layout=compact&show_icons=true&theme=vue-dark)
+![Tushar's top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=me-tusharchandra&layout=compact&show_icons=true&theme=vue-dark)
 
 ![More Stats](https://github-readme-streak-stats.herokuapp.com?user=me-tusharchandra&theme=vue-dark)
 
