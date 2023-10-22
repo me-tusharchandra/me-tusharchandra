@@ -221,3 +221,8 @@ body {
   font-style: italic; 
   color: #888;
 }
+
+.circular-logo {
+  border-radius: 50%;
+}
+
