@@ -4,7 +4,7 @@
 
 ----
 
-* I'm a 2nd year undergraduate student at IIIT-Delhi, pursuing a B.Tech in Electronics and Communication Engineering.
+* I'm a 3rd year undergraduate student at IIIT-Delhi, pursuing a B.Tech in Electronics and Communication Engineering.
 * I love to code and solve problems. I'm currently working on a few projects, and I'm always open to new ideas and opportunities.
 * I make videos/films on YouTube to share my knowledge and experiences with the world.
 * I am a photographer and a writer.
@@ -39,4 +39,3 @@ Socials:
 ![More Stats](https://github-readme-streak-stats.herokuapp.com?user=me-tusharchandra&theme=vue-dark)
 
 -----
-
