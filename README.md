@@ -1,10 +1,10 @@
 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png)
 
-### IIIT-D ECE'25 | Software Developer | Competitive Programmer | YouTuber | Writer
+### IIIT-D ECE'25 | Software Developer | AI/ML | YouTuber | Writer
 
 ----
 
-* I'm a 3rd year undergraduate student at IIIT-Delhi, pursuing a B.Tech in Electronics and Communication Engineering.
+* I'm a pre-year undergraduate student at IIIT-Delhi, pursuing a B.Tech in Electronics and Communication Engineering.
 * I love to code and solve problems. I'm currently working on a few projects, and I'm always open to new ideas and opportunities.
 * I make videos/films on YouTube to share my knowledge and experiences with the world.
 * I am a photographer and a writer.
