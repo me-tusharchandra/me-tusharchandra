@@ -5,7 +5,7 @@
 ----
 
 * I'm a pre-year undergraduate student at IIIT-Delhi, pursuing a B.Tech in Electronics and Communication Engineering.
-* I love to code and solve problems. I'm currently working on a few projects, and I'm always open to new ideas and opportunities.
+* I'm a software developer, with a keen interest in AI/ML.
 * I make videos/films on YouTube to share my knowledge and experiences with the world.
 * I am a photographer and a writer.
 * Feel free to reach out to me! I'm always open to discussing new ideas, projects, or opportunities to be part of your visions.
