@@ -1,18 +1,5 @@
 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png)
 
-### IIIT-D ECE'25 | Software Developer | AI/ML | YouTuber | Writer
-
-----
-
-* I'm a pre-year undergraduate student at IIIT-Delhi, pursuing a B.Tech in Electronics and Communication Engineering.
-* I'm a software developer, with a keen interest in AI/ML.
-* I make videos/films on YouTube to share my knowledge and experiences with the world.
-* I am a photographer and a writer.
-* Feel free to reach out to me! I'm always open to discussing new ideas, projects, or opportunities to be part of your visions.
-  
-----
-Socials:
-
 <a href="https://www.linkedin.com/in/tushar-chandra-7547901ab//" target="blank"><img align="center"
           src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="tushar" height="30"/></a>
@@ -32,10 +19,17 @@ Socials:
           src="https://img.shields.io/badge/linktree-%231DA1F2.svg?style=for-the-badge&logo=linktree&logoColor=gree"
           alt="tushar" height="30"/></a>
 
+### Software Developer | AI/ML Engineer | YouTuber
+
+----
+
+* Senior @IIIT-Delhi, ECE'25.
+* I make cool videos/films to share my knowledge and experiences with the world.
+  
+----
+
 ![Tushar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=me-tusharchandra&show_icons=true&theme=vue-dark)
-
 ![Tushar's top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=me-tusharchandra&layout=compact&show_icons=true&theme=vue-dark)
-
 ![More Stats](https://github-readme-streak-stats.herokuapp.com?user=me-tusharchandra&theme=vue-dark)
 
------
+
