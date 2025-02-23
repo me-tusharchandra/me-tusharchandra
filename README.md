@@ -12,6 +12,9 @@
 <a href="https://www.youtube.com/tusharchandra" target="blank"><img align="center"
           src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"
           alt="tushar" height="30"/></a>
+<a href="https://www.youtube.com/me-tusharchandra" target="blank"><img align="center"
+          src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"
+          alt="tushar" height="30"/></a>
 <a href="https://twitter.com/me_tushari" target="blank"><img align="center"
           src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
           alt="tushar" height="30"/></a>
@@ -19,17 +22,19 @@
           src="https://img.shields.io/badge/linktree-%231DA1F2.svg?style=for-the-badge&logo=linktree&logoColor=gree"
           alt="tushar" height="30"/></a>
 
-### Software Developer | AI/ML Engineer | YouTuber
-
 ----
+* i'm tushar, a software engineer, researcher and senior @IIIT-Delhi, ECE'25.
 
-* Senior @IIIT-Delhi, ECE'25.
-* I make cool videos/films to share my knowledge and experiences with the world.
+* my research interests are NLP, LLMs, Information Retrieval, and CV.
   
+* most of my learnings are from either hands-on projects that i build in hackathons or from interesting courses taught at my university.
+  
+* tags: problem solver, clear comms, good vibes only.
+  
+----
+![Hackathon Wins](hackathons.gif)
 ----
 
 ![Tushar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=me-tusharchandra&show_icons=true&theme=vue-dark)
 ![Tushar's top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=me-tusharchandra&layout=compact&show_icons=true&theme=vue-dark)
 ![More Stats](https://github-readme-streak-stats.herokuapp.com?user=me-tusharchandra&theme=vue-dark)
-
-
