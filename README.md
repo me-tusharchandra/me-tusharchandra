@@ -1,4 +1,16 @@
 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png)
+----
+* i'm tushar, a software engineer, researcher and senior @IIIT-Delhi'25.
+
+* my research interests are NLP, LLMs, Information Retrieval, and CV.
+  
+* most of my learnings are from either hands-on projects that i build in hackathons or from interesting courses taught at my university.
+  
+* tags: problem solver, clear comms, good vibes only.
+  
+----
+![Hackathon Wins](hackathons.gif)
+----
 
 <a href="https://www.linkedin.com/in/tushar-chandra-7547901ab//" target="blank"><img align="center"
           src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -21,20 +33,13 @@
 <a href="https://linktr.ee/tusharchandra" target="blank"><img align="center"
           src="https://img.shields.io/badge/linktree-%231DA1F2.svg?style=for-the-badge&logo=linktree&logoColor=gree"
           alt="tushar" height="30"/></a>
-
-----
-* i'm tushar, a software engineer, researcher and senior @IIIT-Delhi, ECE'25.
-
-* my research interests are NLP, LLMs, Information Retrieval, and CV.
-  
-* most of my learnings are from either hands-on projects that i build in hackathons or from interesting courses taught at my university.
-  
-* tags: problem solver, clear comms, good vibes only.
-  
-----
-![Hackathon Wins](hackathons.gif)
-----
-
+<!-- 
 ![Tushar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=me-tusharchandra&show_icons=true&theme=vue-dark)
 ![Tushar's top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=me-tusharchandra&layout=compact&show_icons=true&theme=vue-dark)
-![More Stats](https://github-readme-streak-stats.herokuapp.com?user=me-tusharchandra&theme=vue-dark)
+![More Stats](https://github-readme-streak-stats.herokuapp.com?user=me-tusharchandra&theme=vue-dark) -->
+
+<p align="center">
+<img src ="https://github-readme-activity-graph.vercel.app/graph?username=me-tusharchandra&theme=tokyo-night&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Recent activities" height="50%" width="auto"><br>
+<img src ="https://github-readme-stats.vercel.app/api?username=me-tusharchandra&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=me-tusharchandra&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto"><br><br>
+</p>
