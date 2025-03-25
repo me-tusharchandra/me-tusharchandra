@@ -1,6 +1,6 @@
 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png)
 ----
-* i'm tushar, a software engineer, researcher and senior @IIIT-Delhi'25.
+* 🌱 i'm tushar, ml/ai intern @[imagined studios](https://imagined.studio/), researcher and senior @IIIT-Delhi'25.
 
 * my research interests are NLP, LLMs, Information Retrieval, and CV.
   
