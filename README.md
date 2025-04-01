@@ -1,6 +1,6 @@
 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png)
 
-*ml/ai intern @[imagined studios](https://imagined.studio/), researcher and senior @IIIT-Delhi'25. 🌱*
+*mle, researcher and senior @IIIT-Delhi'25. 🌱*
 
 ----
 
