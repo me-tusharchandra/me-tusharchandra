@@ -1,6 +1,6 @@
 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png)
 
-*mle, researcher and senior @IIIT-Delhi'25. 🌱*
+*22, mle, researcher and senior @IIIT-Delhi'25. 🌱*
 
 ----
 
