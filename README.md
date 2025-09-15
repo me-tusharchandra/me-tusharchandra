@@ -1,6 +1,6 @@
 ![Tushar's GitHub Banner](Tushar%20Chandra%20Logo.png)
 
-*22, mle, researcher and senior @IIIT-Delhi'25. 🌱*
+*22, ai/ml engineer, researcher and senior @IIIT-Delhi'25. 🌱*
 
 <a href="https://www.linkedin.com/in/tushar-chandra-7547901ab//" target="blank"><img align="center"
           src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
